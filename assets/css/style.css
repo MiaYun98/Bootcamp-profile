@@ -1,0 +1,92 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.right {
+    padding: 20px;
+    background-color: rgb(97, 170, 166);
+    font-size: medium;
+    text-align: right;
+    
+}
+
+header section ul {
+    list-style-type: none;
+}
+
+header section ul li {
+    margin-left: 25px;
+    display: inline-block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+p {
+    font-size: 20px;
+}
+
+/* second part starts here */
+main {
+    width: 100%;
+    margin: auto;
+    padding-top: 15px;
+    border-bottom: 5px solid rgb(124, 247, 200);
+    text-align: center;
+}
+
+/* contact information */
+nav {
+    background-color: #915da1;
+    padding: 100px;
+    text-align: center;
+}
+
+nav h2 {
+    color: white;
+}
+
+article {
+    position: relative;
+    background-color: rgb(255, 195, 195);
+    width: 500px;
+    margin: auto;
+    border: 10px solid rgb(201, 123, 136);
+}
+
+/* footer */
+footer {
+    background-color: rgb(136, 87, 87);
+    color: azure;
+    padding: 30px;
+    clear: both;
+    text-align: center;
+}
+
+.box {
+    background-color: rgb(110, 89, 226);
+    color: rgb(238, 234, 29);
+}
+
+.box h1 {
+    font-size: 50px;
+}
+.image {
+    padding: 20px;
+    border: 20px solid rgb(240, 200, 128);
+    margin: 20px;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+  }
