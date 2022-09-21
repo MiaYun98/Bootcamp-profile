@@ -9,14 +9,6 @@ body {
     background-color: blanchedalmond;
 }
 
-.right {
-    padding: 20px;
-    background-color: rgb(97, 170, 166);
-    font-size: medium;
-    text-align: right;
-    
-}
-
 header section ul {
     list-style-type: none;
 }
@@ -72,6 +64,13 @@ footer {
     text-align: center;
 }
 
+.right {
+    padding: 20px;
+    background-color: rgb(97, 170, 166);
+    font-size: medium;
+    text-align: right;
+}
+
 .box {
     background-color: rgb(110, 89, 226);
     color: rgb(238, 234, 29);
@@ -80,6 +79,7 @@ footer {
 .box h1 {
     font-size: 50px;
 }
+
 .image {
     padding: 20px;
     border: 20px solid rgb(240, 200, 128);
